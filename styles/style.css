@@ -66,3 +66,7 @@ a {
 strong {
   color: var(--clr-blue400);
 }
+
+hr {
+  color: var(--clr-slate);
+}
